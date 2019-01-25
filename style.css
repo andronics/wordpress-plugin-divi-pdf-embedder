@@ -1,0 +1,13 @@
+.et-db #et-boc .et-fb-modules-list .et_fb_aio_pdf_embedder:before,
+.et-pb-all-modules .et_fb_aio_pdf_embedder:before,
+.et_pb_saved_layouts_list .et_fb_aio_pdf_embedder:before {
+    content: "(";
+}
+
+.et-db #et-boc .et-fb-modules-list .et_fb_aio_pdf_embedder,
+.et-pb-all-modules .et_fb_aio_pdf_embedder,
+.et_pb_saved_layouts_list .et_fb_aio_pdf_embedder {
+    background-color: #a82121;
+    color: white;
+    font-weight: 700;
+}
